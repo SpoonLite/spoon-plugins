@@ -2,5 +2,4 @@
 # SpoonLite Plugins for OPRS
 Collection of plugins made by SpoonLite and other developers. These plugins are specifically made for OPRS-based clients.
 ## Discord 
-[![Discord](https://img.shields.io/discord/373382904769675265.svg)](https://discord.gg/mZvA6My)
 Please feel free to join the [discord](https://discord.gg/mZvA6My)
