@@ -13,25 +13,25 @@ Please feel free to join the [discord](https://discord.gg/mZvA6My)
 All of the plugins maintained by SpoonLite are included in the one Socket jar.
 
 ## Included:
-| Plugin             | Description                           |
-|:------------------:|:-------------------------------------:|
-| Socket             | [Click Here](#socket)                 |
-| Barb. Assault      | [Click Here](###barb.-assault)        |
-| Boss Timers        | [Click Here](###boss-timers)          |
-| Chat               | [Click Here](###chat)                 |
-| Damage Counter     | [Click Here](###damage-counter)       |
-| Death Indicators   | [Click Here](###death-indicators)     |
-| Defence            | [Click Here](###defence)              |
-| Healing            | [Click Here](###healing)              |
-| Ice Demon          | [Click Here](###ice-emon)             |
-| Planks             | [Click Here](###planks)               |
-| Player Indicators  | [Click Here](###player-indicators)    |
-| Player Status      | [Click Here](###player-status)        |
-| Player Status Ext. | [Click Here](###player-status-ext.)   |
-| Sotetseg           | [Click Here](###sotetseg)             |
-| Thieving           | [Click Here](###thieving)             |
-| Vanguard Pots      | [Click Here](###vanguard-pots)        |
-| World Hopper       | [Click Here](###world-hopper)         |
+| Plugin             | Description                         |
+|:------------------:|:-----------------------------------:|
+| Socket             | [Click Here](#socket)               |
+| Barb. Assault      | [Click Here](#barb.-assault)        |
+| Boss Timers        | [Click Here](#boss-timers)          |
+| Chat               | [Click Here](#chat)                 |
+| Damage Counter     | [Click Here](#damage-counter)       |
+| Death Indicators   | [Click Here](#death-indicators)     |
+| Defence            | [Click Here](#defence)              |
+| Healing            | [Click Here](#healing)              |
+| Ice Demon          | [Click Here](#ice-emon)             |
+| Planks             | [Click Here](#planks)               |
+| Player Indicators  | [Click Here](#player-indicators)    |
+| Player Status      | [Click Here](#player-status)        |
+| Player Status Ext. | [Click Here](#player-status-ext.)   |
+| Sotetseg           | [Click Here](#sotetseg)             |
+| Thieving           | [Click Here](#thieving)             |
+| Vanguard Pots      | [Click Here](#vanguard-pots)        |
+| World Hopper       | [Click Here](#world-hopper)         |
 
 ---
 <table>
