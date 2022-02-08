@@ -16,7 +16,7 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 | Plugin             | Description                         |
 |:------------------:|:-----------------------------------:|
 | Socket             | [Click Here](#socket)               |
-| Barb. Assault      | [Click Here](#barb.-assault)        |
+| Barb. Assault      | [Click Here](#barb-assault)         |
 | Boss Timers        | [Click Here](#boss-timers)          |
 | Chat               | [Click Here](#chat)                 |
 | Damage Counter     | [Click Here](#damage-counter)       |
@@ -27,7 +27,7 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 | Planks             | [Click Here](#planks)               |
 | Player Indicators  | [Click Here](#player-indicators)    |
 | Player Status      | [Click Here](#player-status)        |
-| Player Status Ext. | [Click Here](#player-status-ext.)   |
+| Player Status Ext. | [Click Here](#player-status-ext)    |
 | Sotetseg           | [Click Here](#sotetseg)             |
 | Thieving           | [Click Here](#thieving)             |
 | Vanguard Pots      | [Click Here](#vanguard-pots)        |
