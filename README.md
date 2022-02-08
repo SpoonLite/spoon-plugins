@@ -15,7 +15,7 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 ## Included:
 | Plugin             | Description                           |
 |:------------------:|:-------------------------------------:|
-| Socket             | [Click Here](###socket)               |
+| Socket             | [Click Here](###Socket)               |
 | Barb. Assault      | [Click Here](###barb.-assault)        |
 | Boss Timers        | [Click Here](###boss-timers)          |
 | Chat               | [Click Here](###chat)                 |
@@ -42,10 +42,10 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 <details>
     <summary>Features</summary>
     
-```java
-- 3 Server Address Options - American [Yuri], Aus [McNeill], Custom
-- Option to disable join/leave chat messages
-- Show connection infobox [Green if connected, red if disconnected]
+```diff
++ 3 Server Address Options - American [Yuri], Aus [McNeill], Custom
++ Option to disable join/leave chat messages
++ Show connection infobox [Green if connected, red if disconnected]
 ```
 </details>
 
