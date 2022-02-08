@@ -15,7 +15,7 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 ## Included:
 | Plugin             | Description                           |
 |:------------------:|:-------------------------------------:|
-| Socket             | [Click Here](###Socket)               |
+| Socket             | [Click Here](#socket)                 |
 | Barb. Assault      | [Click Here](###barb.-assault)        |
 | Boss Timers        | [Click Here](###boss-timers)          |
 | Chat               | [Click Here](###chat)                 |
