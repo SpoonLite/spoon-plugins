@@ -5,7 +5,7 @@ Collection of plugins made by SpoonLite and other developers. These plugins are 
 [![Discord](https://img.shields.io/discord/603461130257432592.svg)](https://discord.gg/mZvA6My)
 
 Please feel free to join the [discord](https://discord.gg/mZvA6My)
-# Socket
+# Socket Info
 <img src="https://img.shields.io/badge/version-1.0.8-blue?style=flat-square">
 
 > **Disclaimer:** Will conflict with other versions of the same Socket plugins. Uninstall those plugins if you wish to use the SpoonLite version.
@@ -13,27 +13,31 @@ Please feel free to join the [discord](https://discord.gg/mZvA6My)
 All of the plugins maintained by SpoonLite are included in the one Socket jar.
 
 ## Included:
-| Plugin             | Description                         |
-|:------------------:|:-----------------------------------:|
-| Socket             | [Click Here](###Socket)             |
-| Barb. Assault      | [Click Here](###Barb. Assault)      |
-| Boss Timers        | [Click Here](###Boss Timers)        |
-| Chat               | [Click Here](###Chat)               |
-| Damage Counter     | [Click Here](###Damage Counter)     |
-| Death Indicators   | [Click Here](###Death Indicators)   |
-| Defence            | [Click Here](###Defence)            |
-| Healing            | [Click Here](###Healing)            |
-| Ice Demon          | [Click Here](###Ice Demon)          |
-| Planks             | [Click Here](###Planks)             |
-| Player Indicators  | [Click Here](###Player Indicators)  |
-| Player Status      | [Click Here](###Player Status)      |
-| Player Status Ext. | [Click Here](###Player Status Ext.) |
-| Sotetseg           | [Click Here](###Sotetseg)           |
-| Thieving           | [Click Here](###Thieving)           |
-| Vanguard Pots      | [Click Here](###Vanguard Pots)      |
-| World Hopper       | [Click Here](###World Hopper)       |
+| Plugin             | Description                           |
+|:------------------:|:-------------------------------------:|
+| Socket             | [Click Here](###socket)               |
+| Barb. Assault      | [Click Here](###barb.-assault)        |
+| Boss Timers        | [Click Here](###boss-timers)          |
+| Chat               | [Click Here](###chat)                 |
+| Damage Counter     | [Click Here](###damage-counter)       |
+| Death Indicators   | [Click Here](###death-indicators)     |
+| Defence            | [Click Here](###defence)              |
+| Healing            | [Click Here](###healing)              |
+| Ice Demon          | [Click Here](###ice-emon)             |
+| Planks             | [Click Here](###planks)               |
+| Player Indicators  | [Click Here](###player-indicators)    |
+| Player Status      | [Click Here](###player-status)        |
+| Player Status Ext. | [Click Here](###player-status-ext.)   |
+| Sotetseg           | [Click Here](###sotetseg)             |
+| Thieving           | [Click Here](###thieving)             |
+| Vanguard Pots      | [Click Here](###vanguard-pots)        |
+| World Hopper       | [Click Here](###world-hopper)         |
 
 ---
+<table>
+<tr>
+<td>
+    
 ### Socket
 <details>
     <summary>Features</summary>
@@ -45,6 +49,10 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 ```
 </details>
 
+</td>
+</tr>
+</table>    
+    
 ---
 
 ### Barb. Assault
