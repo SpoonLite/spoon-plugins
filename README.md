@@ -42,10 +42,10 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 <details>
     <summary>Features</summary>
     
-```diff
-* 3 Server Address Options - American [Yuri], Aus [McNeill], Custom
-* Option to disable join/leave chat messages
-* Show connection infobox [Green if connected, red if disconnected]
+```
+- 3 Server Address Options - American [Yuri], Aus [McNeill], Custom
+- Option to disable join/leave chat messages
+- Show connection infobox [Green if connected, red if disconnected]
 ```
 </details>
 
@@ -56,6 +56,29 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 ---
 
 ### Barb. Assault
+<details>
+    <summary>Features</summary>
+    
+```
+- Infobox that displays your current role's style
+- Highlights correct eggs to pick up
+- Removes clickbox on the wrong style eggs
+- Left click call on the horn
+- Highlights the correct attack style to use in the weapon tab
+- Highlights the correct item specific to your role
+- Hide HP overlay
+- Highlight role-specific NPCs
+- Remove use food on any NPC except healers
+- Vending machine highlight based off your role
+- Cannon clickbox highlight
+- Disco Queen
+- Messages
+```
+</details>
+
+</td>
+</tr>
+</table>   
 
 ---
 
