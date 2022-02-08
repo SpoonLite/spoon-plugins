@@ -13,25 +13,26 @@ Please feel free to join the [discord](https://discord.gg/mZvA6My)
 All of the plugins maintained by SpoonLite are included in the one Socket jar.
 
 ## Included:
-| Plugin             | Description                         |
-|:------------------:|:-----------------------------------:|
-| Socket             | [Click Here](#socket)               |
-| Barb. Assault      | [Click Here](#barb-assault)         |
-| Boss Timers        | [Click Here](#boss-timers)          |
-| Chat               | [Click Here](#chat)                 |
-| Damage Counter     | [Click Here](#damage-counter)       |
-| Death Indicators   | [Click Here](#death-indicators)     |
-| Defence            | [Click Here](#defence)              |
-| Healing            | [Click Here](#healing)              |
-| Ice Demon          | [Click Here](#ice-emon)             |
-| Planks             | [Click Here](#planks)               |
-| Player Indicators  | [Click Here](#player-indicators)    |
-| Player Status      | [Click Here](#player-status)        |
-| Player Status Ext. | [Click Here](#player-status-ext)    |
-| Sotetseg           | [Click Here](#sotetseg)             |
-| Thieving           | [Click Here](#thieving)             |
-| Vanguard Pots      | [Click Here](#vanguard-pots)        |
-| World Hopper       | [Click Here](#world-hopper)         |
+| Plugin                 | Description                           |
+|:----------------------:|:-------------------------------------:|
+| Socket                 | [Click Here](#socket)                 |
+| Barb. Assault          | [Click Here](#barb-assault)           |
+| Boss Timers            | [Click Here](#boss-timers)            |
+| Chat                   | [Click Here](#chat)                   |
+| Damage Counter         | [Click Here](#damage-counter)         |
+| Death Indicators       | [Click Here](#death-indicators)       |
+| Defence                | [Click Here](#defence)                |
+| Healing                | [Click Here](#healing)                |
+| Ice Demon              | [Click Here](#ice-emon)               |
+| Planks                 | [Click Here](#planks)                 |
+| Player Indicators      | [Click Here](#player-indicators)      |
+| Player Status          | [Click Here](#player-status)          |
+| Player Status Ext.     | [Click Here](#player-status-ext)      |
+| Sotetseg               | [Click Here](#sotetseg)               |
+| Special Attack Counter | [Click Here](#special-attack-counter) |
+| Thieving               | [Click Here](#thieving)               |
+| Vanguard Pots          | [Click Here](#vanguard-pots)          |
+| World Hopper           | [Click Here](#world-hopper)           |
 
 ---
 <table>
@@ -190,6 +191,7 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 - Infobox that displays when vulnerability successfully lands
 - Option to highlight NPCs that someone has successfully landed vulnerability on
 - Corp chally helper [Red = don't chally, Green = chally]
+- Properly tracks defence reduction for special cases [corp and bloat walking/down]
 ```
     
 </details>
@@ -363,6 +365,26 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </td>
 </tr>
 </table>  
+
+---
+<table>
+<tr>
+<td>
+
+### Special Attack Counter
+<details>
+    <summary>Features</summary>
+    
+```
+- Tracks the amount of special attacks landed by players in socket
+- Shows Zaros crossbow spec damage only in ToB
+```
+    
+</details>
+
+</td>
+</tr>
+</table>
 
 ---
 <table>
