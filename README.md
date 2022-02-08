@@ -8,4 +8,4 @@ Please feel free to join the [discord](https://discord.gg/mZvA6My)
 # Socket
 <img src="https://img.shields.io/badge/version-1.0.8-blue?style=flat-square">
 
-> Disclaimer: Will conflict with other versions of the same Socket plugins. Uninstall those plugins if you wish to use the SpoonLite version.
+> **Disclaimer:** Will conflict with other versions of the same Socket plugins. Uninstall those plugins if you wish to use the SpoonLite version.
