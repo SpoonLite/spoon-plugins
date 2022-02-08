@@ -13,25 +13,25 @@ Please feel free to join the [discord](https://discord.gg/mZvA6My)
 All of the plugins maintained by SpoonLite are included in the one Socket jar.
 
 ## Included:
-| Plugin             | Description   |
-| -------------      |:-------------:|
-| Socket             | [Click Here](#Socket) |
-| Barb. Assault      | centered      |
-| Boss Timers        | are neat      |
-| Chat               | are neat      |
-| Damage Counter     | are neat      |
-| Death Indicators   | are neat      |
-| Defence            | are neat      |
-| Healing            | are neat      |
-| Ice Demon          | are neat      |
-| Planks             | are neat      |
-| Player Indicators  | are neat      |
-| Player Status      | are neat      |
-| Player Status Ext. | are neat      |
-| Sotetseg           | are neat      |
-| Thieving           | are neat      |
-| Vanguard Pots      | are neat      |
-| World Hopper       | are neat      |
+| Plugin             | Description                          |
+| -------------      |:------------------------------------:|
+| Socket             | [Click Here](### Socket)             |
+| Barb. Assault      | [Click Here](### Barb. Assault)      |
+| Boss Timers        | [Click Here](### Boss Timers)        |
+| Chat               | [Click Here](### Chat)               |
+| Damage Counter     | [Click Here](### Damage Counter)     |
+| Death Indicators   | [Click Here](### Death Indicators)   |
+| Defence            | [Click Here](### Defence)            |
+| Healing            | [Click Here](### Healing)            |
+| Ice Demon          | [Click Here](### Ice Demon)          |
+| Planks             | [Click Here](### Planks)             |
+| Player Indicators  | [Click Here](### Player Indicators)  |
+| Player Status      | [Click Here](### Player Status)      |
+| Player Status Ext. | [Click Here](### Player Status Ext.) |
+| Sotetseg           | [Click Here](### Sotetseg)           |
+| Thieving           | [Click Here](### Thieving)           |
+| Vanguard Pots      | [Click Here](### Vanguard Pots)      |
+| World Hopper       | [Click Here](### World Hopper)       |
 
 ---
 ### Socket
@@ -44,35 +44,67 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 - Show connection infobox [Green if connected, red if disconnected]
 ```
 </details>
+
 ---
+
 ### Barb. Assault
+
 ---
+
 ### Boss Timers
+
 ---
+
 ### Chat
+
 ---
+
 ### Damage Counter
+
 ---
+
 ### Death Indicators
+
 ---
+
 ### Defence
+
 ---
+
 ### Healing
+
 ---
+
 ### Ice Demon
+
 ---
+
 ### Planks
+
 ---
+
 ### Player Indicators
+
 ---
+
 ### Player Status
+
 ---
+
 ### Player Status Ext.
+
 ---
+
 ### Sotetseg
+
 ---
+
 ### Thieving
+
 ---
+
 ### Vanguard Pots
+
 ---
+
 ### World Hopper
