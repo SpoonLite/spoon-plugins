@@ -43,9 +43,9 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
     <summary>Features</summary>
     
 ```diff
-+ 3 Server Address Options - American [Yuri], Aus [McNeill], Custom
-+ Option to disable join/leave chat messages
-+ Show connection infobox [Green if connected, red if disconnected]
+* 3 Server Address Options - American [Yuri], Aus [McNeill], Custom
+* Option to disable join/leave chat messages
+* Show connection infobox [Green if connected, red if disconnected]
 ```
 </details>
 
