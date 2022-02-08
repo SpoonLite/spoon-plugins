@@ -54,6 +54,9 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </table>    
     
 ---
+<table>
+<tr>
+<td>
 
 ### Barb. Assault
 <details>
@@ -82,6 +85,9 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </table>   
 
 ---
+<table>
+<tr>
+<td>
 
 ### Boss Timers
 <details>
@@ -99,6 +105,9 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </table>   
 
 ---
+<table>
+<tr>
+<td>
 
 ### Chat
 <details>
@@ -120,6 +129,9 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </table>  
 
 ---
+<table>
+<tr>
+<td>
 
 ### Damage Counter
 <details>
@@ -145,6 +157,9 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </table>  
 
 ---
+<table>
+<tr>
+<td>
 
 ### Death Indicators
 <details>
@@ -161,6 +176,9 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </table>  
 
 ---
+<table>
+<tr>
+<td>
 
 ### Defence
 <details>
@@ -181,6 +199,9 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </table>  
 
 ---
+<table>
+<tr>
+<td>
 
 ### Healing
 <details>
@@ -206,6 +227,9 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </table>  
 
 ---
+<table>
+<tr>
+<td>
 
 ### Ice Demon
 <details>
@@ -228,6 +252,9 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </table>  
 
 ---
+<table>
+<tr>
+<td>
 
 ### Planks
 <details>
@@ -245,6 +272,9 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </table>  
 
 ---
+<table>
+<tr>
+<td>
 
 ### Player Indicators
 <details>
@@ -263,6 +293,9 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </table>  
 
 ---
+<table>
+<tr>
+<td>
 
 ### Player Status
 <details>
@@ -284,6 +317,9 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </table>  
 
 ---
+<table>
+<tr>
+<td>
 
 ### Player Status Ext.
 <details>
@@ -302,6 +338,9 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </table>  
 
 ---
+<table>
+<tr>
+<td>
 
 ### Sotetseg
 <details>
@@ -326,6 +365,9 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </table>  
 
 ---
+<table>
+<tr>
+<td>
 
 ### Thieving
 <details>
@@ -349,6 +391,9 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </table>  
 
 ---
+<table>
+<tr>
+<td>
 
 ### Vanguard Pots
 <details>
@@ -366,6 +411,9 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </table>  
 
 ---
+<table>
+<tr>
+<td>
 
 ### World Hopper
 <details>
