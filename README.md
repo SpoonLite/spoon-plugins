@@ -6,7 +6,7 @@ Collection of plugins made by SpoonLite and other developers. These plugins are 
 
 Please feel free to join the [discord](https://discord.gg/mZvA6My)
 # Socket Info
-<img src="https://img.shields.io/badge/version-1.1.0-blue?style=flat-square">
+<img src="https://img.shields.io/badge/version-1.1.0-blueviolet">
 
 > **Disclaimer:** Will conflict with other versions of the same Socket plugins. Uninstall those plugins if you wish to use the SpoonLite version.
 
