@@ -6,7 +6,7 @@ Collection of plugins made by SpoonLite and other developers. These plugins are 
 
 Please feel free to join the [discord](https://discord.gg/mZvA6My)
 # Socket Info
-<img src="https://img.shields.io/badge/version-1.1.9-blueviolet">
+<img src="https://img.shields.io/badge/version-1.2.2-blueviolet">
 
 > **Disclaimer:** Will conflict with other versions of the same Socket plugins. Uninstall those plugins if you wish to use the SpoonLite version.
 
@@ -23,7 +23,8 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 | Death Indicators       | [Click Here](#death-indicators)       |
 | Defence                | [Click Here](#defence)                |
 | Healing                | [Click Here](#healing)                |
-| Ice Demon              | [Click Here](#ice-emon)               |
+| Ping                   | [Click Here](#ping)                   |
+| Ice Demon              | [Click Here](#ice-demon)              |
 | Planks                 | [Click Here](#planks)                 |
 | Player Indicators      | [Click Here](#player-indicators)      |
 | Player Status          | [Click Here](#player-status)          |
@@ -252,6 +253,25 @@ All of the plugins maintained by SpoonLite are included in the one Socket jar.
 </td>
 </tr>
 </table>  
+
+---
+<table>
+<tr>
+<td>
+
+### Ping
+<details>
+    <summary>Features</summary>
+    
+```
+- Able to temporarily ping/highlight npcs, players, tiles, and game objects across socket
+```
+    
+</details>
+
+</td>
+</tr>
+</table>
 
 ---
 <table>
